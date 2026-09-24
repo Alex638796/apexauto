@@ -19,4 +19,4 @@ Pillow
 Flask>=3.0.0
 waitress
 gunicorn==20.1.0
-pyromod==2.0.0
+pyromod==3.1.6
