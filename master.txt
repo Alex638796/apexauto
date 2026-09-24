@@ -5,7 +5,7 @@ pycryptodome
 aiofiles
 aiohttp
 TgCrypto==1.2.5
-pyrofork==2.3.61
+pyrofork==2.3.45
 cloudscraper
 bs4
 pytz
@@ -19,4 +19,4 @@ Pillow
 Flask>=3.0.0
 waitress
 gunicorn==20.1.0
-pyromod
+pyromod==2.0.0
